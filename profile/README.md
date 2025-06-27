@@ -1,3 +1,5 @@
+![Sapphichat logo](https://avatars.githubusercontent.com/u/218169011?s=100)
+
 # Sapphichat
 
 **Sapphichat** is a privacy-first, self-hostable, decentralized messaging app — with no federation, no central servers, and no complex setup.
