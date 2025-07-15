@@ -2,7 +2,7 @@
 
 # Sapphichat
 
-**Sapphichat** is a privacy-first, self-hostable, decentralized messaging app — with no federation, no central servers, and no complex setup.
+**Sapphichat** is a privacy-first, self-hostable, decentralized messaging app — with federation, no central servers, and no complex setup.
 
 Designed for simplicity and autonomy, Sapphichat allows anyone to deploy their own server in **one command**, with **zero technical knowledge**. Once deployed, the entire system is managed directly from the iOS client — including configuration, backups, and migrations.
 
