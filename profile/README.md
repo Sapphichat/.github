@@ -8,6 +8,10 @@ Designed for simplicity and autonomy, Sapphichat allows anyone to deploy their o
 
 > Yes, the name is a quiet nod. And no, it’s not accidental. 🏳️‍🌈
 
+> [!WARNING]
+> **Work in Progress**  
+> Currently, no repository is public yet because the project is still young and has many important milestones to reach before an open release. Stay tuned!
+
 ---
 
 ## ✨ What makes Sapphichat different?
@@ -23,7 +27,7 @@ Designed for simplicity and autonomy, Sapphichat allows anyone to deploy their o
 
 ## 🧩 Architecture
 
-- **Client (iOS only) [`Sapphichat-iOS`](https://github.com/Sapphichat/Sapphichat-iOS)**
+- **Client (iOS only) [`Sapphichat-iOS`](https://github.com/Sapphichat/Sapphichat-iOS)**  
   A native iOS app built with Swift and SwiftUI, designed to manage conversations, contacts, and full backend configuration.
 
 - **Backend: [`Sapphichat-backend`](https://github.com/Sapphichat/Sapphichat-backend)**  
